@@ -15,7 +15,7 @@ https://github.com/lannstark/excel-download
 
 ## 사용 방법
 
-- `@ExcelColumn`을 활용하며 됩니다.
-    - `ExcelCarDto`에 샘플이 있습니다.
+- `@ExcelColumn`을 활용하면 됩니다.
+    - `ExcelCarDto`에 샘플이 있습니다. [Link](https://github.com/Hyune-c/apply-excel-download-module/blob/master/src/main/java/com/example/applyexceldownloadmodule/car/ExcelCarDto.java)
 
 > 배민은 신이다..!
